@@ -1,5 +1,5 @@
 Cold and warm are two temperatures.
-Day and light are times of the day.
+Day and night are times of the day.
 Hi! It is such a sunny day.
 I am so tired today.
 
