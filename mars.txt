@@ -1,1 +1,3 @@
-Cold and war are two temperatures
+Cold and warm are two temperatures.
+Day and light are times of the day.
+Hi! It is such a sunny day.
